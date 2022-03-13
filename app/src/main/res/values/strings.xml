@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TMSProject2</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="reg">У вас уже есть аккаунт?</string>
+    <string name="registr">Регистрация</string>
+    <string name="log">Войдите</string>
+    <string name="ent">Вход</string>
+    <string name="recom">Рекомендуемые плейлисты</string>
+    <string name="signupText">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submitButton">rec</string>
+    <string name="PasswordTextFiels">password</string>
+    <string name="UsernameTextField">UserEmail</string>
+    <string name="PasswordText">Password</string>
+    <string name="UserNameTextView">UserNameText</string>
+    <string name="LastNameText">LastName</string>
+    <string name="FirstNameTextField">FirstName</string>
+    <string name="FirstNameText">FirstName</string>
+    <string name="SecondNameTextField">FirstName</string>
+    <string name="Login_button">log</string>
+    <string name="Login_text">loging</string>
+    <string name="backButton">bac</string>
+    <string name="List_of_Users_text">List</string>
+
+</resources>
